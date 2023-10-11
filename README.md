@@ -13,4 +13,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aksoyorcun&show_icons=true&locale=en" alt="aksoyorcun" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aksoyorcun&label=Profile%20views&color=0e75b6&style=flat" alt="aksoyorcun" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aksoyorcun&label=Profile%20views&color=3fabfd&style=flat" alt="aksoyorcun" /> </p>
